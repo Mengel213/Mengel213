@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Password Cracking Experiment (John the Ripper)</b>
-  - [Breif Description](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Breif Description](https://github.com/Mengel213/Password-Cracking-Project/blob/main/README.md)
 
 <h2>📺 Certifications</h2>
 
