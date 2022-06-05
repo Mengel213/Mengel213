@@ -7,6 +7,7 @@
 
 <h2>📺 Certifications</h2>
 
+- [Comptia CySA+](https://www.credly.com/badges/a3c69edf-d641-4221-9187-b3159ecc2c1e)
 - [Comptia Sec+](https://www.credly.com/badges/c1512848-b2a8-442e-b9e0-2bc214796986)
 - [Comptia Net+](https://www.credly.com/badges/31348770-776f-4f0d-92df-d3d88bfe8318)
 - [Comptia A+](https://www.credly.com/badges/fdb5f956-840b-44c4-86f5-ce5b2e79426c)
