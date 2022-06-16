@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>MetaData Extraction Project </b>
+  - [Full Walkthrough](https://github.com/Mengel213/Metadata-Extraction-Project#readme)  
 - <b>Password Cracking Experiment (John the Ripper)</b>
   - [Breif Description](https://github.com/Mengel213/Password-Cracking-Project/blob/main/README.md)
-- <b>MetaData Extraction Project </b>
-  - [Full Walkthrough](https://github.com/Mengel213/Metadata-Extraction-Project#readme)
 
 <h2>📺 Certifications</h2>
 
