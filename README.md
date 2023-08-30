@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-engel-5849b0173//">Information Security Specialist</a>
+<h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-engel-5849b0173//">Cyber Security Incident Responder</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
