@@ -9,7 +9,7 @@
 
 <h2>📺 Certifications</h2>
 
-- [Comptia CASP+](https://www.credly.com/badges/e898dab7-f237-41c3-ba09-febe0a3a495c)
+- [Comptia SecurityX](https://www.credly.com/badges/e898dab7-f237-41c3-ba09-febe0a3a495c)
 - [Comptia CySA+](https://www.credly.com/badges/a3c69edf-d641-4221-9187-b3159ecc2c1e)
 - [Comptia Sec+](https://www.credly.com/badges/c1512848-b2a8-442e-b9e0-2bc214796986)
 - [Comptia Net+](https://www.credly.com/badges/31348770-776f-4f0d-92df-d3d88bfe8318)
